@@ -9,11 +9,12 @@ The project required utilizing the methods and techniques acquired in the course
 
 
 File: [Lembke_Max_A1_Regression_Analysis_v1.5](https://github.com/maxlembke/ML_Classification_Apprentice_Chef/blob/main/Lembke_Max_A1_Regression_Analysis_v1.5.ipynb)
-### 2) Classification Model Development 
+### 2) Anlysis
 
 
 File: [Lembke_Max_A1_Classification_Model_Development](https://github.com/maxlembke/ML_Classification_Apprentice_Chef/blob/main/Lembke_Max_A1_Classification_Model_Development.ipynb)
-### 3) Unsupervised Analysis Project (with Team) 
+
+### 3) Results
 
 
 File: [Team_17_A2_Analysis_v2.1.ipynb](https://github.com/maxlembke/ML_Classification_Apprentice_Chef/blob/main/Team_17_A2_Analysis_v2.1.ipynb)
