@@ -1,2 +1,3 @@
 # NLP_NBA_Fan_Engagement-_Case
-Individual Project investigating fan engagement with the NBA
+
+Project conducted as a part of the Text Analytics and Natural Language Processing (NLP) - DAT-5317 course by Edward Kwartler. 
